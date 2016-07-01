@@ -1,0 +1,412 @@
+==============================================================
+START Timestamp: 14-Apr-2015 9:30 hrs
+ 
+Requested: 25 subjects
+details.task type:  cF
+ 
+1 Models:
+    'bpmi10_fow'
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      -1     to    1
+      j:      0.2     to    5
+ 
+Max no. iters = 200
+ 
+Hit enter to start                                   
+==============================================================
+Model 1 - bpmi10_fow       [9:30] ##############
+Requested iteration #1 --------------------------------------------------------
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',279,1)">a3_hierarfit_models at 279</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',279,1)">a3_hierarfit_models at 279</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',279,1)">a3_hierarfit_models at 279</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',279,1)">a3_hierarfit_models at 279</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',279,1)">a3_hierarfit_models at 279</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',279,1)">a3_hierarfit_models at 279</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',279,1)">a3_hierarfit_models at 279</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',279,1)">a3_hierarfit_models at 279</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',279,1)">a3_hierarfit_models at 279</a>} 
+   Correcting for softmax base ==0 (beta=19.2266)
+   Correcting for softmax base ==0 (beta=19.2266)
+   Correcting for softmax base ==0 (beta=19.2266)
+   Correcting for softmax base ==0 (beta=19.2266)
+   Correcting for softmax base ==0 (beta=19.2266)
+   Correcting for softmax base ==0 (beta=19.2266)
+   Correcting for softmax base ==0 (beta=19.2266)
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',279,1)">a3_hierarfit_models at 279</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',279,1)">a3_hierarfit_models at 279</a>} 
+{Warning: Matrix is close to singular or badly scaled. Results may be
+inaccurate. RCOND =  5.418205e-46.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',279,1)">a3_hierarfit_models at 279</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',279,1)">a3_hierarfit_models at 279</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',279,1)">a3_hierarfit_models at 279</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',279,1)">a3_hierarfit_models at 279</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',279,1)">a3_hierarfit_models at 279</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',279,1)">a3_hierarfit_models at 279</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',279,1)">a3_hierarfit_models at 279</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',279,1)">a3_hierarfit_models at 279</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',279,1)">a3_hierarfit_models at 279</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',279,1)">a3_hierarfit_models at 279</a>} 
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',279,1)">a3_hierarfit_models at 279</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',279,1)">a3_hierarfit_models at 279</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',289,1)">a3_hierarfit_models at 289</a>} 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [4.2596 2.1942 0.3354 -3.6895 -3.1313 -360.5645]
+     nu: [Inf Inf Inf Inf Inf Inf]
+    nui: [6x6 double]
+     NewZ:
+     mu: [1.3329 -17.3610 -0.5139 -0.0927 -4.7915 0.1651]
+     nu: [6.8412 5.9974e+05 440.5699 0.0570 1.9391 3.3263e+03]
+    nui: [6x6 double]
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=19.9734)
+   Correcting for softmax base ==0 (beta=19.9734)
+   Correcting for softmax base ==0 (beta=19.9734)
+   Correcting for softmax base ==0 (beta=19.9734)
+   Correcting for softmax base ==0 (beta=19.9734)
+   Correcting for softmax base ==0 (beta=19.9734)
+   Correcting for softmax base ==0 (beta=19.9734)
+   Correcting for softmax base ==0 (beta=19.0767)
+   Correcting for softmax base ==0 (beta=19.0767)
+   Correcting for softmax base ==0 (beta=19.0767)
+   Correcting for softmax base ==0 (beta=19.0767)
+   Correcting for softmax base ==0 (beta=19.0767)
+   Correcting for softmax base ==0 (beta=19.0767)
+   Correcting for softmax base ==0 (beta=19.0767)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=18.6256)
+   Correcting for softmax base ==0 (beta=18.6256)
+   Correcting for softmax base ==0 (beta=18.6256)
+   Correcting for softmax base ==0 (beta=18.6256)
+   Correcting for softmax base ==0 (beta=18.6256)
+   Correcting for softmax base ==0 (beta=18.6256)
+   Correcting for softmax base ==0 (beta=18.6256)
+   Correcting for softmax base ==0 (beta=16.5196)
+   Correcting for softmax base ==0 (beta=16.5196)
+   Correcting for softmax base ==0 (beta=16.5196)
+   Correcting for softmax base ==0 (beta=16.5196)
+   Correcting for softmax base ==0 (beta=16.5196)
+   Correcting for softmax base ==0 (beta=16.5196)
+   Correcting for softmax base ==0 (beta=16.5196)
+   Correcting for softmax base ==0 (beta=16.2076)
+   Correcting for softmax base ==0 (beta=16.2076)
+   Correcting for softmax base ==0 (beta=16.2076)
+   Correcting for softmax base ==0 (beta=16.2076)
+   Correcting for softmax base ==0 (beta=16.2076)
+   Correcting for softmax base ==0 (beta=16.2076)
+   Correcting for softmax base ==0 (beta=16.2076)
+   Correcting for softmax base ==0 (beta=16.1753)
+   Correcting for softmax base ==0 (beta=16.1753)
+   Correcting for softmax base ==0 (beta=16.1753)
+   Correcting for softmax base ==0 (beta=16.1753)
+   Correcting for softmax base ==0 (beta=16.1753)
+   Correcting for softmax base ==0 (beta=16.1753)
+   Correcting for softmax base ==0 (beta=16.1753)
+   Correcting for softmax base ==0 (beta=19.9679)
+   Correcting for softmax base ==0 (beta=19.9679)
+   Correcting for softmax base ==0 (beta=19.9679)
+   Correcting for softmax base ==0 (beta=19.9679)
+   Correcting for softmax base ==0 (beta=19.9679)
+   Correcting for softmax base ==0 (beta=19.9679)
+   Correcting for softmax base ==0 (beta=19.9679)
+   Correcting for softmax base ==0 (beta=16.6717)
+   Correcting for softmax base ==0 (beta=16.6717)
+   Correcting for softmax base ==0 (beta=16.6717)
+   Correcting for softmax base ==0 (beta=16.6717)
+   Correcting for softmax base ==0 (beta=16.6717)
+   Correcting for softmax base ==0 (beta=16.6717)
+   Correcting for softmax base ==0 (beta=16.6717)
+   Correcting for softmax base ==0 (beta=15.1137)
+   Correcting for softmax base ==0 (beta=15.1137)
+   Correcting for softmax base ==0 (beta=15.1137)
+   Correcting for softmax base ==0 (beta=15.1137)
+   Correcting for softmax base ==0 (beta=15.1137)
+   Correcting for softmax base ==0 (beta=15.1137)
+   Correcting for softmax base ==0 (beta=15.1137)
+   Correcting for softmax base ==0 (beta=4.4844)
+   Correcting for softmax base ==0 (beta=4.4844)
+   Correcting for softmax base ==0 (beta=4.4844)
+   Correcting for softmax base ==0 (beta=4.4844)
+   Correcting for softmax base ==0 (beta=4.4844)
+   Correcting for softmax base ==0 (beta=4.4844)
+   Correcting for softmax base ==0 (beta=4.4844)
+   Correcting for softmax base ==0 (beta=4.541)
+   Correcting for softmax base ==0 (beta=4.541)
+   Correcting for softmax base ==0 (beta=4.541)
+   Correcting for softmax base ==0 (beta=4.541)
+   Correcting for softmax base ==0 (beta=4.541)
+   Correcting for softmax base ==0 (beta=4.541)
+   Correcting for softmax base ==0 (beta=4.541)
+   Correcting for softmax base ==0 (beta=5.1903)
+   Correcting for softmax base ==0 (beta=5.1903)
+   Correcting for softmax base ==0 (beta=5.1903)
+   Correcting for softmax base ==0 (beta=5.1903)
+   Correcting for softmax base ==0 (beta=5.1903)
+   Correcting for softmax base ==0 (beta=5.1903)
+   Correcting for softmax base ==0 (beta=5.1903)
+   Correcting for softmax base ==0 (beta=1.7596)
+   Correcting for softmax base ==0 (beta=1.7596)
+   Correcting for softmax base ==0 (beta=1.7596)
+   Correcting for softmax base ==0 (beta=1.7596)
+   Correcting for softmax base ==0 (beta=1.7596)
+   Correcting for softmax base ==0 (beta=1.7596)
+   Correcting for softmax base ==0 (beta=1.7596)
+   Correcting for softmax base ==0 (beta=4.8486)
+   Correcting for softmax base ==0 (beta=4.8486)
+   Correcting for softmax base ==0 (beta=4.8486)
+   Correcting for softmax base ==0 (beta=4.8486)
+   Correcting for softmax base ==0 (beta=4.8486)
+   Correcting for softmax base ==0 (beta=4.8486)
+   Correcting for softmax base ==0 (beta=4.8486)
+Couldn't fit p11_OG at all for  bpmi10_fow (>3 attempts)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=10.2328)
+   Correcting for softmax base ==0 (beta=10.2328)
+   Correcting for softmax base ==0 (beta=10.2328)
+   Correcting for softmax base ==0 (beta=10.2328)
+   Correcting for softmax base ==0 (beta=10.2328)
+   Correcting for softmax base ==0 (beta=10.2328)
+   Correcting for softmax base ==0 (beta=10.2328)
+Couldn't fit p15_SZ at all for  bpmi10_fow (>3 attempts)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+Couldn't fit p24_VP at all for  bpmi10_fow (>3 attempts)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=18.6985)
+   Correcting for softmax base ==0 (beta=18.6985)
+   Correcting for softmax base ==0 (beta=18.6985)
+   Correcting for softmax base ==0 (beta=18.6985)
+   Correcting for softmax base ==0 (beta=18.6985)
+   Correcting for softmax base ==0 (beta=18.6985)
+   Correcting for softmax base ==0 (beta=18.6985)
+   Correcting for softmax base ==0 (beta=7.544)
+   Correcting for softmax base ==0 (beta=7.544)
+   Correcting for softmax base ==0 (beta=7.544)
+   Correcting for softmax base ==0 (beta=7.544)
+   Correcting for softmax base ==0 (beta=7.544)
+   Correcting for softmax base ==0 (beta=7.544)
+   Correcting for softmax base ==0 (beta=7.544)
+   Correcting for softmax base ==0 (beta=6.1234)
+   Correcting for softmax base ==0 (beta=6.1234)
+   Correcting for softmax base ==0 (beta=6.1234)
+   Correcting for softmax base ==0 (beta=6.1234)
+   Correcting for softmax base ==0 (beta=6.1234)
+   Correcting for softmax base ==0 (beta=6.1234)
+   Correcting for softmax base ==0 (beta=6.1234)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=6.0186)
+   Correcting for softmax base ==0 (beta=6.0186)
+   Correcting for softmax base ==0 (beta=6.0186)
+   Correcting for softmax base ==0 (beta=6.0186)
+   Correcting for softmax base ==0 (beta=6.0186)
+   Correcting for softmax base ==0 (beta=6.0186)
+   Correcting for softmax base ==0 (beta=6.0186)
+   Correcting for softmax base ==0 (beta=10.6884)
+   Correcting for softmax base ==0 (beta=10.6884)
+   Correcting for softmax base ==0 (beta=10.6884)
+   Correcting for softmax base ==0 (beta=10.6884)
+   Correcting for softmax base ==0 (beta=10.6884)
+   Correcting for softmax base ==0 (beta=10.6884)
+   Correcting for softmax base ==0 (beta=10.6884)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+Couldn't fit p35_EO at all for  bpmi10_fow (>3 attempts)
+   Correcting for softmax base ==0 (beta=17.4153)
+   Correcting for softmax base ==0 (beta=17.4153)
+   Correcting for softmax base ==0 (beta=17.4153)
+   Correcting for softmax base ==0 (beta=17.4153)
+   Correcting for softmax base ==0 (beta=17.4153)
+   Correcting for softmax base ==0 (beta=17.4153)
+   Correcting for softmax base ==0 (beta=17.4153)
+   Correcting for softmax base ==0 (beta=2.9389)
+   Correcting for softmax base ==0 (beta=2.9389)
+   Correcting for softmax base ==0 (beta=2.9389)
+   Correcting for softmax base ==0 (beta=2.9389)
+   Correcting for softmax base ==0 (beta=2.9389)
+   Correcting for softmax base ==0 (beta=2.9389)
+   Correcting for softmax base ==0 (beta=2.9389)
+   Correcting for softmax base ==0 (beta=14.1825)
+   Correcting for softmax base ==0 (beta=14.1825)
+   Correcting for softmax base ==0 (beta=14.1825)
+   Correcting for softmax base ==0 (beta=14.1825)
+   Correcting for softmax base ==0 (beta=14.1825)
+   Correcting for softmax base ==0 (beta=14.1825)
+   Correcting for softmax base ==0 (beta=14.1825)
+Couldn't fit p39_JH at all for  bpmi10_fow (>3 attempts)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+Couldn't fit p45_SO at all for  bpmi10_fow (>3 attempts)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=18.0267)
+   Correcting for softmax base ==0 (beta=18.0267)
+   Correcting for softmax base ==0 (beta=18.0267)
+   Correcting for softmax base ==0 (beta=18.0267)
+   Correcting for softmax base ==0 (beta=18.0267)
+   Correcting for softmax base ==0 (beta=18.0267)
+   Correcting for softmax base ==0 (beta=18.0267)
+Couldn't fit p08_AK at all for  bpmi10_fow (>3 attempts)
+   Correcting for softmax base ==0 (beta=19.9748)
+   Correcting for softmax base ==0 (beta=19.9748)
+   Correcting for softmax base ==0 (beta=19.9748)
+   Correcting for softmax base ==0 (beta=19.9748)
+   Correcting for softmax base ==0 (beta=19.9748)
+   Correcting for softmax base ==0 (beta=19.9748)
+   Correcting for softmax base ==0 (beta=19.9748)
+   Correcting for softmax base ==0 (beta=8.7936)
+   Correcting for softmax base ==0 (beta=8.7936)
+   Correcting for softmax base ==0 (beta=8.7936)
+   Correcting for softmax base ==0 (beta=8.7936)
+   Correcting for softmax base ==0 (beta=8.7936)
+   Correcting for softmax base ==0 (beta=8.7936)
+   Correcting for softmax base ==0 (beta=8.7936)
+   Correcting for softmax base ==0 (beta=15.9196)
+   Correcting for softmax base ==0 (beta=15.9196)
+   Correcting for softmax base ==0 (beta=15.9196)
+   Correcting for softmax base ==0 (beta=15.9196)
+   Correcting for softmax base ==0 (beta=15.9196)
+   Correcting for softmax base ==0 (beta=15.9196)
+   Correcting for softmax base ==0 (beta=15.9196)
+Couldn't fit p24_VP at all for  bpmi10_fow (>3 attempts)
+   Correcting for softmax base ==0 (beta=6.727)
+   Correcting for softmax base ==0 (beta=6.727)
+   Correcting for softmax base ==0 (beta=6.727)
+   Correcting for softmax base ==0 (beta=6.727)
+   Correcting for softmax base ==0 (beta=6.727)
+   Correcting for softmax base ==0 (beta=6.727)
+   Correcting for softmax base ==0 (beta=6.727)
+   Correcting for softmax base ==0 (beta=14.7631)
+   Correcting for softmax base ==0 (beta=14.7631)
+   Correcting for softmax base ==0 (beta=14.7631)
+   Correcting for softmax base ==0 (beta=14.7631)
+   Correcting for softmax base ==0 (beta=14.7631)
+   Correcting for softmax base ==0 (beta=14.7631)
+   Correcting for softmax base ==0 (beta=14.7631)
+Couldn't fit p27_PV at all for  bpmi10_fow (>3 attempts)
+Couldn't fit p39_JH at all for  bpmi10_fow (>3 attempts)
+Couldn't fit p45_SO at all for  bpmi10_fow (>3 attempts)
+   Correcting for softmax base ==0 (beta=17.8151)
+   Correcting for softmax base ==0 (beta=17.8151)
+   Correcting for softmax base ==0 (beta=17.8151)
+   Correcting for softmax base ==0 (beta=17.8151)
+   Correcting for softmax base ==0 (beta=17.8151)
+   Correcting for softmax base ==0 (beta=17.8151)
+   Correcting for softmax base ==0 (beta=17.8151)
+Couldn't fit p08_AK at all for  bpmi10_fow (>3 attempts)
+         Attempting group fit (within EV): 10th try         (mu:  -0.69     -1.7     -1.7    -0.16     -5.8    0.072       nu:  1.2     0.92     0.78     0.25      1.3     0.58)
+   [1 of 1] Group converged on 12th try         (mu:  -0.68914     -1.7083     -1.7383    -0.16154     -5.8468    0.072253       nu:  1.1788     0.92423     0.78002     0.25341         1.3     0.57587)
+   Calculating BIC via samples
+Returning parameters from fit-space to true paramenter space ##############
+====================================
+END Timestamp: 14-Apr-2015 9:34 hrs
+INSTRUCTION: Results variables (prefix r):r_iterations, r_res, r_models
+                     [r_res: Col 1= Model, Col 2=Subject fits, 3=Model BIC, Col 4=N valid subjects, Col 6 onwards=Mean parameter values]
+ 
+Check command-window log for poor fits; See 'further instructions' at end of script for Bayes factor & model weights
+ 
+====================================

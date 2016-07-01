@@ -1,0 +1,693 @@
+==============================================================
+START Timestamp: 15-Apr-2015 19:8 hrs
+ 
+Requested: 13 subjects
+details.task type:  cF
+ 
+2 Models:
+    'bpjmi14_feuw'
+    'bpjmi15_fevw'
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      -1     to    1
+      j:      0.2     to    5
+ 
+Max no. iters = 200
+ 
+Hit enter to start                                   
+==============================================================
+Model 1 - bpjmi14_feuw       [19:8] ##############
+Requested iteration #1 --------------------------------------------------------
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+Couldn't fit p26_PB at all for  bpjmi14_feuw (>3 attempts)
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is close to singular or badly scaled. Results may be
+inaccurate. RCOND =  5.157212e-25.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',292,1)">a3_hierarfit_models at 292</a>} 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [1x8 double]
+     nu: [Inf Inf Inf Inf Inf Inf Inf Inf]
+    nui: [8x8 double]
+     NewZ:
+     mu: [1x8 double]
+     nu: [1x8 double]
+    nui: [8x8 double]
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+   Correcting for softmax base ==0 (beta=19.8101)
+   Correcting for softmax base ==0 (beta=19.8101)
+   Correcting for softmax base ==0 (beta=19.8101)
+   Correcting for softmax base ==0 (beta=19.8101)
+   Correcting for softmax base ==0 (beta=19.8101)
+   Correcting for softmax base ==0 (beta=19.8101)
+   Correcting for softmax base ==0 (beta=19.8101)
+   Correcting for softmax base ==0 (beta=19.8101)
+   Correcting for softmax base ==0 (beta=19.8101)
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is close to singular or badly scaled. Results may be
+inaccurate. RCOND =  6.357801e-23.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',292,1)">a3_hierarfit_models at 292</a>} 
+   Altering Z    (2th ev step)
+     original Z:
+     mu: [1x8 double]
+     nu: [Inf Inf Inf Inf Inf Inf Inf Inf]
+    nui: [8x8 double]
+     NewZ:
+     mu: [-0.0152 -0.1730 2.4989 0.1128 -1.2100 -4.8099 0.1368 0.2067]
+     nu: [1x8 double]
+    nui: [8x8 double]
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is close to singular or badly scaled. Results may be
+inaccurate. RCOND =  3.298726e-23.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',292,1)">a3_hierarfit_models at 292</a>} 
+   Altering Z    (3th ev step)
+     original Z:
+     mu: [0.0728 0.3001 2.3003 -0.2670 -3.1080 -5.3791 0.3679 0.5827]
+     nu: [Inf Inf Inf Inf Inf Inf Inf Inf]
+    nui: [8x8 double]
+     NewZ:
+     mu: [0.0967 1.0607 2.4989 -0.3228 -0.4978 -4.6684 0.1381 0.2074]
+     nu: [0.9771 1.3876 4.4588 330.4997 362.0483 1.1486 2.3822 1.3236]
+    nui: [8x8 double]
+         Attempting group fit (within EV): 10th try         (mu:  0.59    -0.26      1.6    -0.25    -0.51     -5.8     0.68      1.3       nu:  0.94     0.39      1.1      1.1     0.31     0.89     0.67     0.88)
+         Attempting group fit (within EV): 20th try         (mu:  1    -0.25        1    -0.26    -0.49     -5.8     0.63      1.4       nu:  1.1     0.39     0.97        1     0.29     0.87     0.67     0.81)
+         Attempting group fit (within EV): 30th try         (mu:  1.8    -0.25     0.78    -0.27    -0.48     -5.7     0.63      1.5       nu:  0.96     0.39     0.95        1     0.27     0.84     0.67     0.81)
+         Attempting group fit (within EV): 40th try         (mu:  2.2    -0.25     0.66    -0.27    -0.47     -5.7     0.62      1.5       nu:  0.97     0.39     0.96        1     0.27     0.83     0.66     0.79)
+         Attempting group fit (within EV): 50th try         (mu:  2.5    -0.24      0.6    -0.28    -0.47     -5.8     0.61      1.6       nu:  0.97     0.39     0.97        1     0.26     0.82     0.65     0.79)
+         Attempting group fit (within EV): 60th try         (mu:  2.8    -0.23     0.55    -0.27    -0.52     -5.8     0.63      1.6       nu:  0.98     0.39        1        1     0.18      0.8     0.62     0.75)
+         Attempting group fit (within EV): 70th try         (mu:  3    -0.23     0.55    -0.25    -0.53     -5.8     0.69      1.5       nu:  0.98     0.39        1     0.99     0.24     0.79     0.54     0.69)
+         Attempting group fit (within EV): 80th try         (mu:  3.1    -0.23     0.55    -0.23    -0.54     -5.8      0.7      1.5       nu:  0.98     0.39        1     0.99     0.24     0.79     0.54     0.69)
+         Attempting group fit (within EV): 90th try         (mu:  3.3    -0.23     0.55    -0.22    -0.54     -5.8      0.7      1.5       nu:  0.99     0.39        1     0.99     0.24     0.79     0.54     0.69)
+         Attempting group fit (within EV): 100th try         (mu:  3.4    -0.23     0.55    -0.21    -0.54     -5.8     0.71      1.5       nu:  0.99     0.39        1     0.99     0.24     0.78     0.54     0.69)
+         Attempting group fit (within EV): 110th try         (mu:  3.5    -0.23     0.55     -0.2    -0.54     -5.8     0.71      1.5       nu:  0.99     0.39        1        1     0.24     0.78     0.54     0.69)
+         Attempting group fit (within EV): 120th try         (mu:  3.6    -0.23     0.55    -0.19    -0.54     -5.8     0.71      1.5       nu:  0.99     0.39        1        1     0.23     0.78     0.54     0.69)
+         Attempting group fit (within EV): 130th try         (mu:  3.7    -0.23     0.55    -0.18    -0.54     -5.8     0.71      1.5       nu:  0.99     0.39        1        1     0.23     0.78     0.54     0.69)
+         Attempting group fit (within EV): 140th try         (mu:  3.8    -0.23     0.55    -0.17    -0.53     -5.8      0.7      1.5       nu:  0.99     0.39        1        1     0.23     0.78     0.54     0.69)
+         Attempting group fit (within EV): 150th try         (mu:  3.9    -0.23     0.55    -0.16    -0.53     -5.8      0.7      1.5       nu:  0.99     0.39        1        1     0.23     0.78     0.54     0.69)
+         Attempting group fit (within EV): 160th try         (mu:  4    -0.23     0.55    -0.15    -0.53     -5.8      0.7      1.5       nu:  0.99     0.39        1        1     0.23     0.78     0.54     0.69)
+         Attempting group fit (within EV): 170th try         (mu:  4.1    -0.23     0.55    -0.14    -0.53     -5.8      0.7      1.5       nu:  0.99     0.39        1        1     0.23     0.78     0.54     0.69)
+         Attempting group fit (within EV): 180th try         (mu:  4.1    -0.23     0.55    -0.13    -0.53     -5.8      0.7      1.5       nu:  0.99     0.39        1        1     0.23     0.78     0.54     0.68)
+         Attempting group fit (within EV): 190th try         (mu:  4.2    -0.23     0.55    -0.12    -0.53     -5.8      0.7      1.5       nu:  0.99     0.39        1        1     0.23     0.78     0.54     0.68)
+         Attempting group fit (within EV): 200th try         (mu:  4.2    -0.23     0.55    -0.12    -0.53     -5.8      0.7      1.5       nu:  0.99     0.39        1        1     0.23     0.78     0.54     0.68)
+   Calculating BIC via samples
+Model 2 - bpjmi15_fevw       [20:8] ##############
+Requested iteration #1 --------------------------------------------------------
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is close to singular or badly scaled. Results may be
+inaccurate. RCOND =  1.497781e-24.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+Couldn't fit p40_CC at all for  bpjmi15_fevw (>3 attempts)
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',292,1)">a3_hierarfit_models at 292</a>} 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [3.1362 5.4850 0.1413 -0.1198 0.1614 -4.6533 -0.1013 0.2066]
+     nu: [Inf Inf Inf Inf Inf Inf Inf Inf]
+    nui: [8x8 double]
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',307,1)">a3_hierarfit_models at 307</a>} 
+     NewZ:
+     mu: [2.1830 -0.2877 NaN NaN NaN -10.3761 -0.1885 NaN]
+     nu: [3.9779e+03 0.1768 NaN NaN NaN 4.3377e+03 4.4673e+10 NaN]
+    nui: [8x8 double]
+Resetting Z. Hessians rank for all subjects, or variances are bad even after correction
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',292,1)">a3_hierarfit_models at 292</a>} 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [0.5535 6.3536 0.4698 0.2186 -0.3228 -0.4812 -0.3484 -0.5041]
+     nu: [Inf Inf Inf Inf Inf Inf Inf Inf]
+    nui: [8x8 double]
+     NewZ:
+     mu: [2.9035 -0.5753 0.7388 -0.3494 0.6250 -1.2978 1.8450 -0.9909]
+     nu: [8.1521 0.3957 6.7799 0.3341 362.0637 0.5230 0.1552 0.0802]
+    nui: [8x8 double]
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=18.9557)
+   Correcting for softmax base ==0 (beta=18.9557)
+   Correcting for softmax base ==0 (beta=18.9557)
+   Correcting for softmax base ==0 (beta=18.9557)
+   Correcting for softmax base ==0 (beta=18.9557)
+   Correcting for softmax base ==0 (beta=18.9557)
+   Correcting for softmax base ==0 (beta=18.9557)
+   Correcting for softmax base ==0 (beta=18.9557)
+   Correcting for softmax base ==0 (beta=18.9557)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=19.9632)
+   Correcting for softmax base ==0 (beta=19.9632)
+   Correcting for softmax base ==0 (beta=19.9632)
+   Correcting for softmax base ==0 (beta=19.9632)
+   Correcting for softmax base ==0 (beta=19.9632)
+   Correcting for softmax base ==0 (beta=19.9632)
+   Correcting for softmax base ==0 (beta=19.9632)
+   Correcting for softmax base ==0 (beta=19.9632)
+   Correcting for softmax base ==0 (beta=19.9632)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+         Attempting group fit (within EV): 10th try         (mu:  2.3     0.55     0.61    -0.25     0.89     -1.8      1.6    -0.54       nu:  1.1     0.68     0.85     0.59      1.1     0.97     0.76     0.62)
+         Attempting group fit (within EV): 20th try         (mu:  2.3     0.55     0.63    -0.25     0.96     -1.8      1.6    -0.53       nu:  1.1     0.68     0.84     0.59        1     0.94     0.76     0.62)
+   [2 of 2] Group converged on 22th try         (mu:  2.3276     0.54739      0.6317    -0.24818     0.95769     -1.7834      1.6443    -0.53398       nu:  1.0563     0.67852     0.83594     0.58917      1.0428     0.94257     0.76468      0.6206)
+   Calculating BIC via samples
+Returning parameters from fit-space to true paramenter space ##############
+====================================
+END Timestamp: 15-Apr-2015 20:18 hrs
+INSTRUCTION: Results variables (prefix r):r_iterations, r_res, r_models
+                     [r_res: Col 1= Model, Col 2=Subject fits, 3=Model BIC, Col 4=N valid subjects, Col 6 onwards=Mean parameter values]
+ 
+Check command-window log for poor fits; See 'further instructions' at end of script for Bayes factor & model weights
+ 
+====================================
+==============================================================
+START Timestamp: 15-Apr-2015 20:55 hrs
+ 
+Requested: 13 subjects
+details.task type:  cF
+ 
+1 Models:
+    'bpjmi14_feuw'
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      -1     to    1
+      j:      0.2     to    5
+ 
+Max no. iters = 200
+ 
+Hit enter to start                                   
+==============================================================
+Model 1 - bpjmi14_feuw       [20:55] ##############
+Requested iteration #1 --------------------------------------------------------
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',292,1)">a3_hierarfit_models at 292</a>} 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [1x8 double]
+     nu: [Inf Inf Inf Inf Inf Inf Inf Inf]
+    nui: [8x8 double]
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',307,1)">a3_hierarfit_models at 307</a>} 
+     NewZ:
+     mu: [NaN NaN NaN NaN NaN NaN NaN NaN]
+     nu: [NaN NaN NaN NaN NaN NaN NaN NaN]
+    nui: [8x8 double]
+Resetting Z. Hessians rank for all subjects, or variances are bad even after correction
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',292,1)">a3_hierarfit_models at 292</a>} 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [1.3260 7.7089 0.5171 -0.1539 0.0738 -1.6225 -0.1529 0.3302]
+     nu: [Inf Inf Inf Inf Inf Inf Inf Inf]
+    nui: [8x8 double]
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',307,1)">a3_hierarfit_models at 307</a>} 
+     NewZ:
+     mu: [0.4921 0.7503 NaN NaN NaN -2.5042 NaN NaN]
+     nu: [11.7242 0.2247 NaN NaN NaN 27.4897 NaN NaN]
+    nui: [8x8 double]
+Resetting Z. Hessians rank for all subjects, or variances are bad even after correction
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+Couldn't fit p26_PB at all for  bpjmi14_feuw (>3 attempts)
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',292,1)">a3_hierarfit_models at 292</a>} 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [1x8 double]
+     nu: [Inf Inf Inf Inf Inf Inf Inf Inf]
+    nui: [8x8 double]
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',307,1)">a3_hierarfit_models at 307</a>} 
+     NewZ:
+     mu: [-1.1173 -1.2628 4.6674 NaN -1.0850 -4.5531 -3.4123 -0.8145]
+     nu: [1x8 double]
+    nui: [8x8 double]
+Resetting Z. Hessians rank for all subjects, or variances are bad even after correction
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+Couldn't fit p24_VP at all for  bpjmi14_feuw (>3 attempts)
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',282,1)">a3_hierarfit_models at 282</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('D:\Dropbox\SANDISK\8 Explore Mem\3b Modelling\a3_hierarfit_models.m',292,1)">a3_hierarfit_models at 292</a>} 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [1x8 double]
+     nu: [Inf Inf Inf Inf Inf Inf Inf Inf]
+    nui: [8x8 double]
+     NewZ:
+     mu: [2.4611 4.3281 0.5154 -0.7921 0.8710 -42.9341 1.2531 7.2448]
+     nu: [1x8 double]
+    nui: [8x8 double]
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+Couldn't fit p23_SG at all for  bpjmi14_feuw (>3 attempts)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+Couldn't fit p29_MY at all for  bpjmi14_feuw (>3 attempts)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+Couldn't fit p37_ND at all for  bpjmi14_feuw (>3 attempts)
+Couldn't fit p38_SL at all for  bpjmi14_feuw (>3 attempts)
+Couldn't fit p39_JH at all for  bpjmi14_feuw (>3 attempts)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+Couldn't fit p45_SO at all for  bpjmi14_feuw (>3 attempts)
+         Attempting group fit (within EV): 10th try         (mu:  2.3    -0.33    -0.89     0.17    -0.56     -5.7      1.1     0.99       nu:  0.97     0.38      1.1        1     0.23     0.85     0.54     0.76)
+         Attempting group fit (within EV): 20th try         (mu:  2.7    -0.25     -1.7     0.16    -0.58     -5.7     0.91      1.3       nu:  0.97      0.4        1        1     0.24     0.85     0.54     0.75)
+         Attempting group fit (within EV): 30th try         (mu:  3    -0.25     -1.7     0.16    -0.59     -5.7     0.94      1.2       nu:  0.98      0.4        1        1     0.33     0.84     0.55     0.76)
+         Attempting group fit (within EV): 40th try         (mu:  3.2    -0.25     -1.7     0.16    -0.59     -5.7     0.98      1.2       nu:  0.98      0.4        1        1     0.33     0.84     0.54     0.75)
+         Attempting group fit (within EV): 50th try         (mu:  3.3    -0.25     -1.7     0.16     -0.6     -5.7        1      1.1       nu:  0.98      0.4        1        1     0.33     0.84     0.53     0.74)
+         Attempting group fit (within EV): 60th try         (mu:  3.5    -0.25     -1.7     0.16     -0.6     -5.7        1      1.1       nu:  0.99      0.4        1        1     0.33     0.84     0.52     0.73)
+         Attempting group fit (within EV): 70th try         (mu:  3.6    -0.25     -1.7     0.16     -0.6     -5.7      1.1      1.1       nu:  0.99      0.4        1        1     0.33     0.84     0.52     0.72)
+         Attempting group fit (within EV): 80th try         (mu:  3.7    -0.25     -1.7     0.16     -0.6     -5.7      1.1        1       nu:  0.99      0.4        1        1     0.33     0.83     0.52     0.72)
+         Attempting group fit (within EV): 90th try         (mu:  3.9    -0.25     -1.7     0.16    -0.61     -5.7      1.1        1       nu:  0.99      0.4        1        1     0.33     0.83     0.51     0.72)
+         Attempting group fit (within EV): 100th try         (mu:  4    -0.25     -1.7     0.16    -0.61     -5.7      1.1        1       nu:  0.99      0.4        1        1     0.33     0.83     0.51     0.72)
+         Attempting group fit (within EV): 110th try         (mu:  4    -0.25     -1.7     0.16    -0.61     -5.7      1.1        1       nu:  0.99      0.4        1        1     0.33     0.83     0.51     0.72)
+         Attempting group fit (within EV): 120th try         (mu:  4.1    -0.25     -1.7     0.16    -0.61     -5.7      1.1        1       nu:  0.99      0.4        1        1     0.33     0.83     0.51     0.72)
+         Attempting group fit (within EV): 130th try         (mu:  4.2    -0.25     -1.7     0.16    -0.61     -5.7      1.1        1       nu:  0.99      0.4        1        1     0.33     0.83     0.51     0.72)
+         Attempting group fit (within EV): 140th try         (mu:  4.3    -0.25     -1.7     0.16    -0.61     -5.7      1.1        1       nu:  0.99      0.4        1        1     0.33     0.83     0.51     0.72)
+         Attempting group fit (within EV): 150th try         (mu:  4.3    -0.25     -1.7     0.16    -0.61     -5.7      1.1        1       nu:  0.99      0.4        1        1     0.33     0.83     0.51     0.72)
+         Attempting group fit (within EV): 160th try         (mu:  4.4    -0.25     -1.7     0.16    -0.61     -5.7      1.1        1       nu:  0.99      0.4        1        1     0.33     0.83     0.51     0.72)
+         Attempting group fit (within EV): 170th try         (mu:  4.5    -0.25     -1.7     0.16    -0.61     -5.7      1.1        1       nu:  0.99      0.4        1        1     0.33     0.83     0.51     0.72)
+         Attempting group fit (within EV): 180th try         (mu:  4.5    -0.25     -1.7     0.16    -0.61     -5.7      1.1        1       nu:  0.99      0.4        1        1     0.33     0.83     0.51     0.72)
+         Attempting group fit (within EV): 190th try         (mu:  4.6    -0.25     -1.7     0.16    -0.61     -5.7      1.1        1       nu:  0.99      0.4        1        1     0.33     0.83     0.51     0.72)
+         Attempting group fit (within EV): 200th try         (mu:  4.6    -0.25     -1.7     0.16    -0.61     -5.7      1.1        1       nu:  1      0.4        1        1     0.33     0.83     0.51     0.71)
+   Calculating BIC via samples
+Returning parameters from fit-space to true paramenter space ##############
+====================================
+END Timestamp: 15-Apr-2015 21:53 hrs
+INSTRUCTION: Results variables (prefix r):r_iterations, r_res, r_models
+                     [r_res: Col 1= Model, Col 2=Subject fits, 3=Model BIC, Col 4=N valid subjects, Col 6 onwards=Mean parameter values]
+ 
+Check command-window log for poor fits; See 'further instructions' at end of script for Bayes factor & model weights
+ 
+====================================

@@ -1,0 +1,19 @@
+Outstanding issues re setup
+- constrain all colours to 2 (across all subjects?) currently, subject's colours drawn randomly from 6 
+
+
+
+
+
+
+
+- add error for using wrong hand
+
+
+
+
+
+
+Instructions
+- wrong hand used, 'no response'zcx
+- after learning: reset earnings
