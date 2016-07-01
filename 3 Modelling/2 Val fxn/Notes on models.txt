@@ -1,0 +1,3 @@
+Since parameters i and e are trading off, we now define i so that, if e is in the model already, i is only a residual of e. 
+
+For models that do not have e, i is left as previous (i.e. just a scalar bonus to posterior VAcc). 
